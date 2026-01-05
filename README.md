@@ -8,7 +8,7 @@
 ---
 
 ## Featured projects
-- **inventory-service** — Spring Boot microservice with REST API, JPA, PostgreSQL, Docker, and GitHub Actions CI.  
+- **clothify-ecommerce** — Spring Boot microservice with REST API, JPA, PostgreSQL, Docker, and GitHub Actions CI.  
 - **auth-server** — OAuth2 / JWT auth server demo with token refresh and unit/integration tests.  
 - **job-scraper** — small batch app that scrapes jobs and stores them into DB (shows scheduling + Docker).
 
@@ -17,10 +17,10 @@
 ---
 
 ## Skills
-- Languages: **Java** (11/17), SQL
+- Languages: **Java** (17+)
 - Frameworks: **Spring Boot**, Spring Data, Spring Security
-- Databases: PostgreSQL, Redis (basic)
-- Tools: Maven/Gradle, Docker, Git, GitHub Actions, JUnit, Mockito
+- Databases: MySQL, Redis (basic)
+- Tools: Maven/Gradle, Docker, Git, GitHub Actions,JUnit, Mockito
 - Concepts: REST, TDD, CI/CD, DDD basics, caching, indexing, pagination
 
 ---
