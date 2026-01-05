@@ -12,7 +12,7 @@
 - **auth-server** — OAuth2 / JWT auth server demo with token refresh and unit/integration tests.  
 - **job-scraper** — small batch app that scrapes jobs and stores them into DB (shows scheduling + Docker).
 
-*(Pin these repos to your profile so they show up here.)*
+*(sasi-dev-tech/clothify-ecommerce)*
 
 ---
 
